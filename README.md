@@ -37,27 +37,27 @@ Let's visualize some key screens of our platform:
 
 1. **Home Page**
    
-   ![Home Page](https://github.com/ChiragSaini/E-Commerce-Flask/blob/master/Screenshots/homescreen.PNG)
+   ![Home Page](https://github.com/ufs8889/Ecommerse-Flask/blob/main/Screenshots/homescreen.PNG)
 
 2. **Product Details Screen**
    
-   ![Product Details](https://github.com/ChiragSaini/E-Commerce-Flask/blob/master/Screenshots/product_details_screen.PNG)
+   ![Product Details](https://github.com/ufs8889/Ecommerse-Flask/blob/main/Screenshots/product_details_screen.PNG)
 
 3. **Cart Screen**
    
-   ![Cart](https://github.com/ChiragSaini/E-Commerce-Flask/blob/master/Screenshots/cart_screen.PNG)
+   ![Cart](https://github.com/ufs8889/Ecommerse-Flask/blob/main/Screenshots/cart_screen.PNG)
 
 4. **Admin Home Page**
    
-   ![Admin Home](https://github.com/ChiragSaini/E-Commerce-Flask/blob/master/Screenshots/admin_home_screen.PNG)
+   ![Admin Home](https://github.com/ufs8889/Ecommerse-Flask/blob/main/Screenshots/admin_home_screen.PNG)
 
 5. **Admin Panel: Add Product**
    
-   ![Admin Add Product](https://github.com/ChiragSaini/E-Commerce-Flask/blob/master/Screenshots/admin_add_product.PNG)
+   ![Admin Add Product](https://github.com/ufs8889/Ecommerse-Flask/blob/main/Screenshots/admin_add_product.PNG)
 
 6. **Admin Panel: Edit/Remove Brand**
-   
-   ![Admin Brands](https://github.com/ChiragSaini/E-Commerce-Flask/blob/master/Screenshots/admin_brands_page.PNG)
+
+   ![Admin Brands](https://github.com/ufs8889/Ecommerse-Flask/blob/main/Screenshots/admin_brands_page.PNG)
 
 ## Installation and Usage
 
